@@ -24,7 +24,13 @@
 
 ## Connect with Me 🤝🏻
 
-[![Twitter](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/fb.svg) [![YouTube](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/yt.svg)](https://youtube.com/mofaizanfdns) [![GitHub](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/gh.svg)](https://github.com/mofaizanfdns) [![Facebook](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/fb.svg)](https://www.facebook.com/mofaizanfdns) [![Instagram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/ig.svg)](https://instagram.com/mofaizanfdns/)  [![Telegram](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/tg.svg)](https://t.me/mofaizanfdns) [![WhatsApp](https://raw.githubusercontent.com/1902shubh/1902shubh/master/assets/wa.svg)](https://wa.me/+916005131341)
+[![Twitter](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/fb.svg)](https://twitter.com/mofaizanfdns)
+[![YouTube](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/yt.svg)](https://youtube.com/mofaizanfdns) 
+[![GitHub](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/gh.svg)](https://github.com/mofaizanfdns)
+[![Facebook](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/fb.svg)](https://www.facebook.com/mofaizanfdns)
+[![Instagram](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/ig.svg)](https://instagram.com/mofaizanfdns/)
+[![Telegram](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/tw.svg)](https://t.me/mofaizanfdns)
+[![WhatsApp](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/wa.svg)](https://wa.me/+916005131341)
 
 [![Faizan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mofaizanfdns&theme=tokyonight)](https://git.io/praveenscience)
 
