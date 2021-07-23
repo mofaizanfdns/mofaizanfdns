@@ -10,7 +10,7 @@
 - 💬 Ask me about Android Development / Java / Kotlin / PHP.
 - 📫 Reach me: mofaizanfoundations@gmail.com
 - ⚡ Fun fact: Writing Code for Errors
-
+<!-- 
  ## :movie_camera: Recent YouTube Playlist
  - [Android tutorials 2021](https://www.youtube.com/watch?v=y7YINW2mGxw&list=PL6Rs84MkNq7l4Zc1nQWET9-BFSc7Mnwqb)
  - [WhatsApp Sticker App](https://www.youtube.com/watch?v=dim8m_v1ogM)
@@ -20,7 +20,7 @@
  - [Quotes App](https://www.youtube.com/watch?v=v9AayYoJTMk&list=PL6Rs84MkNq7kj-tXn9XrJYnQnVSOojkaL)
  - [Book App](https://www.youtube.com/watch?v=fxG8wI_yWb8&list=PL6Rs84MkNq7nEhFCy7XfT7XbmA5_KTqeR)
  - [Firebase Authentication](https://www.youtube.com/watch?v=BsfzDUOx958) <br/>
- [More Playlist...](https://www.youtube.com/c/PapayaCoders/playlists)
+ [More Playlist...](https://www.youtube.com/c/PapayaCoders/playlists) -->
 
 ## Connect with Me 🤝🏻
 
