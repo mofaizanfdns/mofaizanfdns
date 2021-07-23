@@ -1,14 +1,14 @@
 ![Profile views](https://gpvc.arturio.dev/mofaizanfdns)
-[![Github](https://img.shields.io/github/followers/1902shubh?label=Follow&style=social)](https://github.com/1902shubh)
+[![Github](https://img.shields.io/github/followers/mofaizanfdns?label=Follow&style=social)](https://github.com/mofaizanfdns)
 
 
-# Hey Folks 👋🏻 I am Shubham Pandey!
+# Hey Folks 👋🏻 It's me Mohammad Faizan!
 
 - 🔭 I’m currently working on Android development.
 - 🌱 I’m currently learning Advance Android Development.
 - 👯 I’m looking to make more friends.
-- 💬 Ask me about Android Development / Java / Kotlin .
-- 📫 Reach me: shubhampandey979271@gmail.com
+- 💬 Ask me about Android Development / Java / Kotlin / PHP.
+- 📫 Reach me: mofaizanfoundations@gmail.com
 - ⚡ Fun fact: Writing Code for Errors
 
  ## :movie_camera: Recent YouTube Playlist
