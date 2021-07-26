@@ -25,7 +25,7 @@
 ## Connect with Me 🤝🏻
 
 [![Twitter](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/fb.svg)](https://twitter.com/mofaizanfdns)
-[![YouTube](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/yt.svg)](https://youtube.com/mofaizanfdns) 
+[![YouTube](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/yt.svg)](https://www.youtube.com/channel/UCnNNY0q1eYPCzJlE-hhjS5Q/channels) 
 [![GitHub](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/gh.svg)](https://github.com/mofaizanfdns)
 [![Facebook](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/fb.svg)](https://www.facebook.com/mofaizanfdns)
 [![Instagram](https://raw.githubusercontent.com/mofaizanfdns/mofaizanfdns/main/assets/ig.svg)](https://instagram.com/mofaizanfdns/)
