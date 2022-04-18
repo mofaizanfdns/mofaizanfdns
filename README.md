@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/mofaizanfdns)
 [![Github](https://img.shields.io/github/followers/mofaizanfdns?label=Follow&style=social)](https://github.com/mofaizanfdns)
+[![Twitter: hellofaizan_](https://img.shields.io/twitter/follow/hellofaizan_?style=social)](https://twitter.com/hellofaizan_)
 
 # Hey Folks 👋🏻 It's me Mohammad Faizan!
 
